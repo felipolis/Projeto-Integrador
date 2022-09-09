@@ -6,3 +6,5 @@ Felipe Archanjo da Cunha Mendes - felipecunhamendes@gmail.com
 Breno Farias da Silva - 
 
 Pamella Lissa Sato Tamura - pamellalissa@alunos.utfpr.edu.br
+
+Gabriel Rocha - gabrielroc2112@gmail.com
