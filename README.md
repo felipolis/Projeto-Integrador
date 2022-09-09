@@ -1,8 +1,8 @@
 # Projeto-Integrador
 
-## Alunos
-Felipe Archanjo da Cunha Mendes
+### Alunos
+Felipe Archanjo da Cunha Mendes - felipecunhamendes@gmail.com
 
-Breno Farias da Silva
+Breno Farias da Silva - 
 
-Pamella Lissa Sato Tamura
+Pamella Lissa Sato Tamura - 
