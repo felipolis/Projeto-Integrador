@@ -7,4 +7,4 @@ Breno Farias da Silva - brenofarias@alunos.utfpr.edu.br
 
 Pamella Lissa Sato Tamura - pamellalissa@alunos.utfpr.edu.br
 
-Gabriel Rocha - gabrielroc2112@gmail.com
+Gabriel Rocha - grocha@alunos.utfpr.edu.br
