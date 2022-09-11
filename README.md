@@ -1,7 +1,7 @@
 # Projeto-Integrador
 
 ### Alunos
-Felipe Archanjo da Cunha Mendes - felipecunhamendes@gmail.com
+Felipe Archanjo da Cunha Mendes - felipemendes.1999@alunos.utfpr.edu.br
 
 Breno Farias da Silva - brenofarias@alunos.utfpr.edu.br
 
